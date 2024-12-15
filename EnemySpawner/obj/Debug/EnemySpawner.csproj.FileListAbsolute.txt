@@ -1,0 +1,7 @@
+D:\VS22 Projects\EnemySpawner\EnemySpawner\bin\Debug\EnemySpawner.exe.config
+D:\VS22 Projects\EnemySpawner\EnemySpawner\bin\Debug\EnemySpawner.exe
+D:\VS22 Projects\EnemySpawner\EnemySpawner\bin\Debug\EnemySpawner.pdb
+D:\VS22 Projects\EnemySpawner\EnemySpawner\obj\Debug\EnemySpawner.csproj.AssemblyReference.cache
+D:\VS22 Projects\EnemySpawner\EnemySpawner\obj\Debug\EnemySpawner.csproj.CoreCompileInputs.cache
+D:\VS22 Projects\EnemySpawner\EnemySpawner\obj\Debug\EnemySpawner.exe
+D:\VS22 Projects\EnemySpawner\EnemySpawner\obj\Debug\EnemySpawner.pdb
